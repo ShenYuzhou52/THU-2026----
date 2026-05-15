@@ -1,0 +1,21 @@
+{
+  "years": [
+    2010,
+    2026
+  ],
+  "top5_excluding_matsuda": [
+    "萩原研二",
+    "降谷零",
+    "诸伏景光",
+    "伊达航",
+    "江户川柯南"
+  ],
+  "files": {
+    "three_lines_raw_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_joint_three_lines_raw.csv",
+    "three_lines_plot": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_joint_three_lines_corrected.png",
+    "stack_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_joint_stack_top5_corrected.csv",
+    "stack_plot": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_joint_stack_top5_corrected.png",
+    "node_table_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_joint_node_table_corrected.csv",
+    "protagonists_raw_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_joint_protagonists_all_raw.csv"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "cutoff_date": "2019-10-01",
+  "works_total": 13,
+  "files": {
+    "works_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_pre_police_academy_matsuda_works.csv",
+    "character_counts_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_pre_police_academy_character_counts.csv",
+    "primary_proxy_counts_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_pre_police_academy_primary_character_proxy_counts.csv"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "site": "Animexx",
+  "cutoff_date": "2019-10-01",
+  "stories_total_found": 7,
+  "stories_pre_police": 2,
+  "files": {
+    "all_story_meta_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\animexx_matsuda_all_story_meta.csv",
+    "pre_police_story_meta_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\animexx_pre_police_story_meta.csv",
+    "character_counts_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\animexx_pre_police_character_counts.csv",
+    "primary_proxy_counts_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\animexx_pre_police_primary_character_proxy_counts.csv"
+  }
+}

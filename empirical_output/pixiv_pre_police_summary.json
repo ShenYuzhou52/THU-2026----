@@ -1,0 +1,13 @@
+{
+  "site": "Pixiv",
+  "window": [
+    "2010-01-01",
+    "2019-10-01"
+  ],
+  "novels_total": 4857,
+  "files": {
+    "novels_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\pixiv_pre_police_matsuda_novels.csv",
+    "character_counts_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\pixiv_pre_police_character_counts.csv",
+    "primary_proxy_counts_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\pixiv_pre_police_primary_character_proxy_counts.csv"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "tag": "Matsuda Jinpei",
+  "year_range": [
+    2010,
+    2026
+  ],
+  "active_years_nonzero": 10,
+  "year_span": 17,
+  "active_year_ratio": 0.5882,
+  "first_nonzero_year": 2016,
+  "latest_year": 2026,
+  "files": {
+    "yearly_scan_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_matsuda_yearly_scan.csv",
+    "yearly_scan_chart": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_matsuda_yearly_scan.png"
+  }
+}

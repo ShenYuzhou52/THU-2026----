@@ -1,0 +1,19 @@
+{
+  "window": [
+    "2019-10-02",
+    "2026-05-09"
+  ],
+  "sites": [
+    "AO3",
+    "Pixiv",
+    "Animexx"
+  ],
+  "files": {
+    "share_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_post2019_matsuda_share.csv",
+    "share_plot": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_post2019_share_three_lines.png",
+    "protagonist_raw_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_post2019_protagonists_raw.csv",
+    "proportion_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_post2019_protagonist_proportions_top5.csv",
+    "stack_plot": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_post2019_protagonist_stack_top5.png",
+    "node_table_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\crosssite_post2019_cohesion_node_table.csv"
+  }
+}

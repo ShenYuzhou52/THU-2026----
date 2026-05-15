@@ -1,0 +1,12 @@
+{
+  "years": [
+    2016,
+    2026
+  ],
+  "files": {
+    "controlled_csv": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_matsuda_vs_conan_controlled.csv",
+    "share_trend_fig": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_control_share_trend.png",
+    "relative_mean_hits_fig": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_control_relative_mean_hits.png",
+    "three_lines_fig": "C:\\Desktop\\Writing_project\\crawl\\empirical_output\\ao3_control_three_lines.png"
+  }
+}
